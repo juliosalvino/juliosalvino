@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Júlio Salvino!
 
-- 🔭 Working: Customer Experience
+- 🔭 Working: Customer Experience - CX
 - 🌱 Learning: ADS / Python
 - 😄 Pronouns: ele/dele
 
