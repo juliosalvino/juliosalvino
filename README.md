@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Júlio Salvino!
 
-- 🔭 Hoje trabalho com Customer Experience
-- 🌱 Estudando: ADS / Python
+- 🔭 Working: Customer Experience
+- 🌱 Learning: ADS / Python
 - 😄 Pronouns: ele/dele
 
 <div align="center">
