@@ -11,7 +11,7 @@
 </div>
   <br>
   <img align="center" alt="Julio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Julio-Python" height="30" width="40" src=" https://www.flaticon.com/free-icon/power-bl_906342?related_id=906342&origin=tag">
+  <img align="center" alt="Julio-Python" height="30" width="40" src="https://github.com/microsoft/PowerBIIcons/blob/b76704a375ae550a08e627ab148945e6eee3d0d6/PNG/Desktop.png">
 </div>
   
   ##
