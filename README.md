@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Júlio Salvino!
 
 - 🔭 Working: Melhoria Contínua | CX | Dados
-- 🌱 Learning: ADS / Python
+- 🌱 Learning: ADS / Python | Django
 - 😄 Pronouns: ele/dele
 
 <div align="center">
